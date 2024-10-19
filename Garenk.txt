@@ -1,1 +1,6 @@
-test edit
+git clone = download repostry
+git add = nge track file 
+git commit (-m) = komen 
+git pull = update 
+git push = update file ke browser
+git status = cek 
